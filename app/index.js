@@ -5,6 +5,8 @@ import './index.css'
 import SearchIcon from './search.svg'
 
 import MovieCard from './MovieCard'
+
+//api for movie list
 const API_URL = "http://www.omdbapi.com?apikey=1274092d";
 const movie1 ={
   "Title": "Spiderman",
