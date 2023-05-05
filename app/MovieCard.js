@@ -1,5 +1,6 @@
 import React from 'react'
 
+//movie component for showing various movies title
 
 const MovieCard  =({movie}) =>{
 
